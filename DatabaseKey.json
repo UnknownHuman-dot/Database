@@ -1,23 +1,17 @@
 [
   {
-    "key": "ZeroxEternal",
-    "bot": "6283197535246",
-    "owner": "62895365422687",
-    "status": "active",
-    "expire": "2025-12-31"
+    "number": "6281918048527",
+    "key": "Test",
+    "expired": "2025-12-30"
   },
   {
+    "number": "628561943401",
     "key": "Naufal",
-    "bot": "628561943401",
-    "owner": "6285710041030",
-    "status": "active",
-    "expire": "2025-06-17"
+    "expired": "2025-06-17"
   },
   {
+    "number": "6283197535246",
     "key": "Rehan",
-    "bot": "6281918048527",
-    "owner": "6288210178332",
-    "status": "active",
-    "expire": "2025-06-17"
+    "expired": "2025-06-17"
   }
 ]
